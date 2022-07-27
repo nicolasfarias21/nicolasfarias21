@@ -1,7 +1,7 @@
 Hi, my name is Nicolas!
 
 - 🔭 I’m currently working how Front-End
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: fariasnicolas129@gmail.com -->
 
 <div align="center"><br>
