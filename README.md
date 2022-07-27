@@ -4,6 +4,8 @@ Hi, my name is Nicolas!
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: fariasnicolas129@gmail.com -->
 
+##
+
 <div align="center"><br>
   <a href="https://github.com/nicolascruz21">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=nicolascruz21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
