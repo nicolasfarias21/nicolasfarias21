@@ -3,10 +3,7 @@ Hi, my name is Nicolas!
 - 🔭 I’m currently working with Front-End
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: fariasnicolasofc@gmail.com -->
-##
-  <a href="https://instagram.com/_nicolascruz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fariasnicolas129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/nicolas-cruz-99bb4323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 
 ##
@@ -30,7 +27,9 @@ Hi, my name is Nicolas!
 ##
   <div> <br>
  
-
+  <a href="https://instagram.com/_nicolascruz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fariasnicolas129@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/nicolas-cruz-99bb4323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
  
   ![Snake animation](https://github.com/nicolascruz21/nicolascruz21/blob/output/github-contribution-grid-snake.svg)
