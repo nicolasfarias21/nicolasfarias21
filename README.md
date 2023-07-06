@@ -1,6 +1,6 @@
 Hi, my name is Nicolas!
 
-- 🔭 I’m currently working with Front-End
+- 🔭 I’m currently working with Software Development
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me: fariasnicolasofc@gmail.com -->
 
