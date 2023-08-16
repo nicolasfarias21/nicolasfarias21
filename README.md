@@ -4,7 +4,7 @@ Hi, my name is Nicolas!
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me: fariasnicolasofc@gmail.com -->
 
-
+ 
 
 ##
   <div style="display: inline_block"><br>
