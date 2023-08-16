@@ -1,7 +1,7 @@
 Hi, my name is Nicolas!
 
-- 🔭 I’m currently working with Software Development
-- 🌱 I’m currently learning C# and Python
+- 🔭 I’m currently working with JavaScript, Node.JS and C#
+- 🌱 I’m currently learning React and Typescript
 - 📫 How to reach me: fariasnicolasofc@gmail.com -->
 
  
