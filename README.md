@@ -25,9 +25,11 @@ Hi, my name is Nicolas!
 
   
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nicolascruz21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascruz21&layout=compact&langs_count=7&theme=dark"/>
-</div>  
+  <a href="https://github.com/nicolascruz21">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolascruz21&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascruz21&layout=compact&theme=dark&langs_count=8" />
+  </a>
+</div>
 
   ##
   <div> <br>
