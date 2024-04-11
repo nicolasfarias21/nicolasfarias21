@@ -32,16 +32,8 @@
   
 </div>
  
-## Projetos Destacados
-</div>  
 
-  
-<div align="center">
-  <a href="https://github.com/nicolasfarias21">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=dark&langs_count=8" />
-  </a>
-</div>
+</div>  
 
   ##
   <div> <br>
