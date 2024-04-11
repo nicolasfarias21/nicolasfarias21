@@ -37,9 +37,9 @@
 
   
 <div align="center">
-  <a href="https://github.com/nicolascruz21">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolascruz21&show_icons=true&theme=dark" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascruz21&layout=compact&theme=dark&langs_count=8" />
+  <a href="https://github.com/nicolasfarias21">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=dark&langs_count=8" />
   </a>
 </div>
 
