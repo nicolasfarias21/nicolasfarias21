@@ -1,9 +1,14 @@
-Hi, my name is Nicolas!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=120&section=header"/>
 
-- 🔭 I’m currently working with JavaScript, Node.JS and React
-- 🌱 I’m currently learning Angular and Bootstrap
-- 📫 How to reach me: fariasnicolasofc@gmail.com -->
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=556B2F&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Maysa+Arruda;I'm+21+years+old;I'm+from+Brazil;☆+Be+Welcome!+☆)](https://git.io/typing-svg)
+##
+
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maysa502&show_icons=true&count_private=true&hide_border=true&title_color=6B8E23&icon_color=6B8E23&text_color=DFECDF&bg_color=0d1117" alt="Nicolas Farias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&hide_border=true&title_color=6B8E23&text_color=DFECDF&bg_color=0d1117" />
+</div>
 
 ##
   <div style="display: inline_block"><br>
