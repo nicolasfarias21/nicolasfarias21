@@ -50,8 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=tokyonight&hide_border=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
