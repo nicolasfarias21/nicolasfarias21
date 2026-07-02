@@ -5,16 +5,15 @@
 <h1 align="center">Hi 👋, I'm Nicolas Farias</h1>
 
 <p align="center">
-  💻 Software Developer • 🇧🇷 Brazil • 20 years old  
+  💻 Software Developer • 🇧🇷 Brazil • 22 years old  
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently working with **C#, .NET, Python and Web**
-- ⚙️ Interested in **backend, automation and systems architecture**
-- 📊 Love building tools that solve real problems
+- 🌱 Currently working with Data Analyst
+
 - 🚀 Always learning and improving
 
 ---
