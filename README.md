@@ -50,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=tokyonight&hide_border=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,10 +65,6 @@
 
   <a href="https://www.linkedin.com/in/nicolas-farias-99bb4323b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/_nicolascruz__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
