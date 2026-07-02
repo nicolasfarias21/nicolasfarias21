@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Farias</h1>
 
 <p align="center">
-  💻 Software Developer • 🇧🇷 Brazil • 22 years old  
+   🇧🇷 Brazil • 22 years old  
 </p>
 
 ---
