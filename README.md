@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=331F3B&height=140&section=header"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nicolas Farias</h1>
