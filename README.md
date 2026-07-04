@@ -74,8 +74,11 @@ I have experience working with:
 
 ---
 
-📚 Education
+## 📚 Education
+
+
 🎓 MBA in Software Engineering — USP/ESALQ
+
 🎓 Analysis and Systems Development — UNIP
 
 ## 📫 Contact
