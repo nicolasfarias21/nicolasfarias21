@@ -12,11 +12,23 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently working with Data Analyst
+I'm a Software Developer passionate about automation, data analysis and building solutions that optimize business processes.
 
-- 🚀 Always learning and improving
+I have experience working with:
 
----
+🏛 Public sector systems
+
+🐍 Python automation
+
+📊 Data analysis and reporting
+
+🗄 SQL
+
+🌐 Full Stack Web Development
+
+⚙ API integration
+
+🔍 Data validation and quality assurance
 
 ## 🧠 Tech Stack
 
@@ -47,15 +59,17 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api?username=nicolasfarias21](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nicolasfarias21&show_icons=true&theme=tokyonight)&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-  <img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasfarias21](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicolasfarias21&layout=compact&theme=tokyonight)&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+🚀 Featured Projects
+📄 Document Generation Platform
+📍 Address Verification & Validation System
+📊 Excel Data Processing & Automation
+🏛 Public Sector Workflow Automation
+🌐 Full Stack Web Applications
 ---
+
+📚 Education
+🎓 MBA in Software Engineering — USP/ESALQ
+🎓 Analysis and Systems Development — UNIP
 
 ## 📫 Contact
 
