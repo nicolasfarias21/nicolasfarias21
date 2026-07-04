@@ -59,12 +59,19 @@ I have experience working with:
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+
+
 📄 Document Generation Platform
+
 📍 Address Verification & Validation System
+
 📊 Excel Data Processing & Automation
+
 🏛 Public Sector Workflow Automation
+
 🌐 Full Stack Web Applications
+
 ---
 
 📚 Education
